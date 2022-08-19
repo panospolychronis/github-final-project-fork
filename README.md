@@ -9,4 +9,4 @@ Output
    simple interest = p*t*r
 Diferents
 
-I have a new git
+I HAD A IDEA NEW
