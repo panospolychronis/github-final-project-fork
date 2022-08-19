@@ -8,3 +8,5 @@ Input:
 Output
    simple interest = p*t*r
 Diferents
+
+I have a new git
